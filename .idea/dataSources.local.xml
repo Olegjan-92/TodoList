@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - todolist@localhost" uuid="e57aa31c-651d-4f2a-bed4-dfa6078bc34a">
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <schema-pattern>todolist.pg_catalog todolist.public</schema-pattern>
+      <default-schemas>todolist.public</default-schemas>
+    </data-source>
+  </component>
+</project>
